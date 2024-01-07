@@ -5,5 +5,3 @@ Website: https://nextjs-dashboard-gamma-pearl.vercel.app
 
 Email: user@nextmail.com
 Password: 123456
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
